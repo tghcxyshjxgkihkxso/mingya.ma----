@@ -1,2 +1,9 @@
-# mingya.ma----
+# mingya.ma--数据挖掘作品集
 自己在HKU与github复现方案的作品汇总集
+包含
+数据挖掘-大学生心理健康研究
+金融欺诈识别case
+基于机器学习的泊松回归模型参数估计与优化技术研究
+Cell2Cell通信用户流失case
+Ford Ka汽车用户投放策略case
+Spotify订阅会员用户增长case
